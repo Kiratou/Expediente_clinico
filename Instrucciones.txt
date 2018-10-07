@@ -1,0 +1,2 @@
+La branch maestra sera utilizada unicamente cuando se vaya a agregar o cambiar una parte del proyecto;
+De otra manera trabajar en sus ramas antes de hacer un commit a la branch master.
